@@ -4,7 +4,6 @@ from src.high_scores import *
 
 # Tests adapted from `problem-specifications//canonical-data.json` @ v4.0.0
 
-
 class HighScoresTest(unittest.TestCase):
     
     # Tests
